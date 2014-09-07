@@ -1,4 +1,4 @@
 my message
 ddd
 ere
-d
+dere
