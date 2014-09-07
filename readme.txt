@@ -1,4 +1,2 @@
 my message
-ddd
-ere
-dererw4
+a real message
